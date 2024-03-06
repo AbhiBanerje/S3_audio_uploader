@@ -1,0 +1,5 @@
+boto3
+gimme-aws-creds
+requests
+snowflake-connector-python==3.4.0
+
